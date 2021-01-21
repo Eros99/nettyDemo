@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.config.RpcScannerConfig,com.github.config.RpcBeanPostProcessor,com.github.config.ClientProcessor
